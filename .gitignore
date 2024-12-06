@@ -1,17 +1,17 @@
 # Node.js
-/node_modules
-/package-lock.json
-/yarn.lock
+/0x02-tailwind-css/node_modules
+/0x02-tailwind-css/package-lock.json
+/0x02-tailwind-css/yarn.lock
 
 # Build output
-/dist
-/public/css
-/public/js
+/0x02-tailwind-css/dist
+/0x02-tailwind-css/public/css
+/0x02-tailwind-css/public/js
 
 # Tailwind CSS build files
-/*.css
-/*.map
-/*.log
+/0x02-tailwind-css/*.css
+/0x02-tailwind-css/*.map
+/0x02-tailwind-css/*.log
 
 # IDE or editor files
 .vscode/
