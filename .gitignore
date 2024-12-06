@@ -1,0 +1,29 @@
+# Node.js
+/node_modules
+/package-lock.json
+/yarn.lock
+
+# Build output
+/dist
+/public/css
+/public/js
+
+# Tailwind CSS build files
+/*.css
+/*.map
+/*.log
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# npm package folders
+.npm/
+.npmrc
+
+# Cache files
+/.cache/
