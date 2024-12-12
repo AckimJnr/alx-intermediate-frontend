@@ -3,4 +3,4 @@
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 
 # then run this command, if node is already installed you can go straight to this command
-npm install sass -v 3.7.4
+npm install -g sass
